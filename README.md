@@ -10,12 +10,6 @@ This project is a Python-based application that utilizes computer vision techniq
 - Adjustable parameters for face detection accuracy and speed
 - Simple and intuitive user interface
 
-## Installation
-
-1. Clone the repository: git clone https://github.com/username/repo.git
-2. Change directory to the project folder: cd project-folder
-3. Install the required dependencies: pip install -r requirements.txt
-
 ## Usage
 
 1. Run the main script: python face_detector.py
